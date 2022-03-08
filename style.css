@@ -1,0 +1,119 @@
+#body{
+    margin:0px;
+  
+}
+
+/* ALL OF THIS IS IN THE NAVAGATION AREA----------------------------------------------*/
+.navbar{
+background-color: black;
+margin-top: 0px;
+display:flex;
+flex-direction: column;
+
+}
+
+.home{
+    margin-left:5px;
+    padding:0px;
+    font-size: 80px;
+    flex:1;
+   
+}
+
+.webpage{
+    margin-left:5px;
+    padding:10px;
+    font-size: 190%;
+    flex:1;
+   
+    
+
+}
+
+.contact_me{
+margin-left:5px;
+padding:10px;
+font-size: 190%;
+flex:1;
+
+}
+
+.info{
+  margin-left:5px;
+  padding:10px;
+  font-size: 190%;
+    flex:1;
+}
+
+
+
+a {
+    color: #2c87f0;
+    flex:1;
+    font-size: 30px;
+   
+    
+  }
+
+  .welcome{
+    color: #2c87f0;
+    text-align:center;
+    font-size: 350%;
+    padding-bottom:6px;
+    margin-top:0px;
+    height:10%;
+    flex:1;
+
+
+  }
+
+  /*    ABOVE THIS LINE IS THE NAVAGATION AREA ---------------------------------*/
+
+
+  .main_content{
+    disply:flex;
+    flex-direction:column;
+  }
+
+  /*-------ABOUT ME SECTION BELOW THIS LINE---------------------------------------*/
+
+  .profile_pic{
+    flex:1;
+    margin-left: 42%;
+    padding-top: 20px;
+    border-radius: 100px;
+    
+
+    
+  
+  }    
+
+
+  .aboutme_title{
+
+    color: black;
+    flex:1;
+    text-align: center;
+
+
+  }
+
+  .aboutme_box1{
+
+    text-align: justify;
+    padding-top:60px;
+    padding-left: 100px;
+    padding-right:100px ;
+
+    flex:1;
+  }
+
+.aboutme_box2{
+
+  flex:2;
+}
+
+
+ 
+
+
